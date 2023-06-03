@@ -8,7 +8,7 @@ Fullstack Dev in .Net-Department
 - TypeScript
 - Angular
 
-## 🌱Skills in Progress
+## 🌱 Skills in Progress
 - Dart
 - Flutter
 - C++
