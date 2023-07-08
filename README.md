@@ -7,6 +7,7 @@ Fullstack Dev in .Net-Department
 - JavaScript
 - TypeScript
 - Angular
+- Ionic
 
 ## 🌱 Skills in Progress
 - Dart
